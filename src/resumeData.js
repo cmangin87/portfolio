@@ -1,5 +1,5 @@
 let resumeData = {
-    "name": "Christopher Mangin",
+    "name": "Christopher R. Mangin",
     "role": "Certified Full-Stack Web Developer",
     "roleDescription": "HTML/CSS, JavaScript, jQuery, Node, Git, MySQL,", 
     "roleDescription2": "MongoDB, Express, React, and more",
